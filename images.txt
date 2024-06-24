@@ -1,0 +1,4 @@
+mysql:8.4.0
+sonatype/nexus3:3.69.0-java17
+#支持指定架构
+--platform=linux/arm64
